@@ -1,3 +1,10 @@
 header{
-    background-color: ;
+    background-color: darkblue;
+    color: lightcoral;
+    text-align: center;
+}
+
+main{
+    background-color: lightgray;
+
 }
