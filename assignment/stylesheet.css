@@ -1,10 +1,17 @@
-header{
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0%;
+}
+
+
+.top{
     background-color: darkblue;
     color: lightcoral;
     text-align: center;
 }
 
-main{
-    background-color: lightgray;
-
+.middle{
+     background-color: lightgray;
+     padding: 1em;
 }
